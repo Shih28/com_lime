@@ -22,7 +22,7 @@ public final class Constants {
     }
 
     public static final class LimelightConstants {
-        public static final double LimelightAngle = 52; 
+        public static final double LimelightAngle = 60; 
     }
 
     public static final class Joystick{
